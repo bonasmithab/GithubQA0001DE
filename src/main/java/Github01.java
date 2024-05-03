@@ -16,5 +16,7 @@ public class Github01 {
         int a = 11;
         System.out.println(t+a);
         System.out.println("Done codes for version 3");
+
+        test
     }
 }
